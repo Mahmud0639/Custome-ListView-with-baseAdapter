@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListViewPractice</string>
+    <string-array name="biriani_names">
+        <item>Biriani one</item>
+        <item>Biriani two</item>
+        <item>Biriani three</item>
+        <item>Biriani four</item>
+        <item>Biriani five</item>
+        <item>Biriani six</item>
+        <item>Biriani seven</item>
+        <item>Biriani eight</item>
+        <item>Biriani nine</item>
+        <item>Biriani ten</item>
+
+    </string-array>
+    <string-array name="biriani_sub_name">
+        <item>Sub name one</item>
+        <item>Sub name two</item>
+        <item>Sub name three</item>
+        <item>Sub name four</item>
+        <item>Sub name five</item>
+        <item>Sub name six</item>
+        <item>Sub name seven</item>
+        <item>Sub name eight</item>
+        <item>Sub name nine</item>
+        <item>Sub name ten</item>
+    </string-array>
+
+</resources>
